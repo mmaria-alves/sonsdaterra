@@ -1,5 +1,4 @@
 import os
-
 from validadores import (email_valido, nome_valido, senha_valida)
 ARQUIVO_TXT = "usuarios.txt"
 
